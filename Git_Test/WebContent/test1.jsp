@@ -12,5 +12,6 @@ test1.jsp 수정
     myupdate
     gitupdate
     push pool merge
+    깃->이클립스로 이동 어떻게 
 </body>
 </html>
