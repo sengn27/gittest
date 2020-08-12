@@ -19,6 +19,7 @@ push pool merge
     merge 하기전에 우클릭 Team-> Remote -> Fetch From -> 
     customURL -> next -> add All Branches Spec 클릭
 	-> Never fetch tags,(마지막꺼 클릭)
+빡세
 </body>
 </html>
 
