@@ -13,5 +13,6 @@ test1.jsp 수정
     gitupdate
     push pool merge
     깃->이클립스로 이동 어떻게 
+    이클립스와 깃 수정내용 다를때는 merge 
 </body>
 </html>
